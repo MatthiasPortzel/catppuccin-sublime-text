@@ -6,7 +6,7 @@ whiskers:
     filename: "build/Catppuccin {{ flavor.identifier | capitalize }}.sublime-color-scheme"
 ---
 {
-    "name": "Catppuccin",
+    "name": "Catppuccin #{{ flavor.name }}",
     "author": "Catppuccin Org",
 
     "variables": {

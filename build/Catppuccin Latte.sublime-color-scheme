@@ -1,12 +1,12 @@
 {
-    "name": "Catppuccin",
+    "name": "Catppuccin #Latte",
     "author": "Catppuccin Org",
 
     "variables": {
         "rosewater": "#dc8a78",
         "flamingo": "#dd7878",
         "pink": "#ea76cb",
-        "mauve": "#8839ef",
+        "muave": "#8839ef",
         "red": "#d20f39",
         "maroon": "#e64553",
         "peach": "#fe640b",

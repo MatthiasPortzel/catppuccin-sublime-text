@@ -1,12 +1,12 @@
 {
-    "name": "Catppuccin",
+    "name": "Catppuccin #Frappé",
     "author": "Catppuccin Org",
 
     "variables": {
         "rosewater": "#f2d5cf",
         "flamingo": "#eebebe",
         "pink": "#f4b8e4",
-        "mauve": "#ca9ee6",
+        "muave": "#ca9ee6",
         "red": "#e78284",
         "maroon": "#ea999c",
         "peach": "#ef9f76",
