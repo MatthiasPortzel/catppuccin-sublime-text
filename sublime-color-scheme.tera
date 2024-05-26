@@ -6,14 +6,14 @@ whiskers:
     filename: "build/Catppuccin {{ flavor.identifier | capitalize }}.sublime-color-scheme"
 ---
 {
-    "name": "Catppuccin",
+    "name": "Catppuccin #{{ flavor.name }}",
     "author": "Catppuccin Org",
 
     "variables": {
         "rosewater": "#{{rosewater.hex}}",
         "flamingo": "#{{flamingo.hex}}",
         "pink": "#{{pink.hex}}",
-        "mauve": "#{{mauve.hex}}",
+        "muave": "#{{mauve.hex}}",
         "red": "#{{red.hex}}",
         "maroon": "#{{maroon.hex}}",
         "peach": "#{{peach.hex}}",

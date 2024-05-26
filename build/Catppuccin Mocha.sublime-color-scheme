@@ -1,12 +1,12 @@
 {
-    "name": "Catppuccin",
+    "name": "Catppuccin #Mocha",
     "author": "Catppuccin Org",
 
     "variables": {
         "rosewater": "#f5e0dc",
         "flamingo": "#f2cdcd",
         "pink": "#f5c2e7",
-        "mauve": "#cba6f7",
+        "muave": "#cba6f7",
         "red": "#f38ba8",
         "maroon": "#eba0ac",
         "peach": "#fab387",
