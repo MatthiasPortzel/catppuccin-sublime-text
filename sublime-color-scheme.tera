@@ -13,7 +13,7 @@ whiskers:
         "rosewater": "#{{rosewater.hex}}",
         "flamingo": "#{{flamingo.hex}}",
         "pink": "#{{pink.hex}}",
-        "mauve": "#{{mauve.hex}}",
+        "muave": "#{{mauve.hex}}",
         "red": "#{{red.hex}}",
         "maroon": "#{{maroon.hex}}",
         "peach": "#{{peach.hex}}",
